@@ -1,2 +1,2 @@
 # Gerenciador-de-tarefas
-Trabalhando com arquivos em python.
+Esse eh um programa simples que tem como objetivo gerenciar tarefas passadas pelo usuario. Basicamente o usuario deve inserir uma tarefa na qual ele desjesa realizar. O programa oferece algumas funcionalidades basicas, como: Adicionar uma tarefa; visualizar as suas tarefas; marcar a tarefa como concluida; Excluir a tarefa. Com isso, as tarefas são armazenadas em arquivo .txt. O intuito do projeto eh trabalhar com arquivos em python. 
